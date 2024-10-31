@@ -1,0 +1,5 @@
+print('Area of a rectangle')
+width = input('Input the area of the rectangle: ')
+length = input('Input the length of the rectangle: ')
+area = int(width) * int(length)
+print(f'The area of the rectangle is : {area}')
